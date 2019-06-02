@@ -66,7 +66,7 @@ ul {
 }
 
 .ingredients {
-    list-style-image: url("handpoint.svg");
+    list-style-image: url("resources/handpoint.svg");
     /* I know the test asked for this, but I want to align the items via flex so I am commenting it out */
     padding-left: 60px;
 }
