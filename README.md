@@ -10,3 +10,7 @@ It's time to make your recipe (from homework #1) a little more exciting.
 2. Below the h1, add a paragraph that explains what the food is, and why you like it so much.
 3. Add emojis to your second list (the ordered list), so that at least 5 of the lines end with an emoji character. You can find emojis online pretty easily. Download them from your favorite emoji website and then upload them somewhere so you can link to them on your HTML page.
 4. Below your final list, add another paragraph that describes what the dish should look, smell, and taste like when it's all done.
+
+### Extra Credit:
+
+Below the final paragraph on the page, add a few images of finished versions of your dish so that the reader can see what the final product should look like.
