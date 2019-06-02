@@ -20,3 +20,8 @@ Let's return to the favorite-book project you completed for project #1. Now it's
 -   [ ] Youtube
 -   [ ] Twitter
 -   [ ] Instagram
+
+### Extra Credit:
+
+1. Using your favorite drawing program (we recommend Inkscape or Gimp) create a logo for your site, and add it to an upper corner of your page.
+2. Add a menu to your site. The menu should include links but the links don't have to actually lead anywhere.
