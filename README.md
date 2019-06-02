@@ -8,3 +8,7 @@ What's your favorite food? Do you know how to make it yourself? If not, look up 
 
 1. The first list should be an unordered list of all the ingredients needed to make the dish.
 2. The second list should be an ordered list, detailing the steps you need to take to prepare that dish.
+
+### Extra Credit:
+
+For extra credit, add comments to your HTML, to explain the purpose of each section of code that you create.
