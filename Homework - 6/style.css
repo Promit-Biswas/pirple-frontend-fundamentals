@@ -74,12 +74,13 @@ ul {
 .preparation {
     /* list-style: upper-roman; */
     /* I know the test asked for this, but I want to align the items via flex so I am commenting it out */
+    padding: 0;
 }
 
 .preparation > li {
     display: flex;
     align-items: center;
-    height: 35px;
+    min-height: 35px;
 }
 .preparation > li:nth-child(odd) {
     background-color: #ddd;
@@ -151,4 +152,51 @@ ul {
 #reference > li > a {
     color: inherit;
     cursor: pointer;
+}
+
+@media screen and (max-width: 560px) {
+    #pageRoot {
+        padding: 0 25px;
+    }
+    #PageTitle {
+        font-size: 32px;
+        margin-top: 20px;
+    }
+    #gallery {
+        flex-direction: column;
+    }
+    #gallery > img {
+        height: auto;
+        width: 100%;
+    }
+    #reference {
+        flex-direction: column;
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+    #reference > li {
+        margin: 0;
+        border-radius: 0;
+    }
+    #reference > li:nth-child(odd) {
+        background: #999;
+        border-color: #999;
+    }
+    #conclusion {
+        letter-spacing: 1px;
+        line-height: 2;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    #pageRoot {
+        padding: 10px;
+    }
+    #PageTitle {
+        font-size: 22px;
+        margin-top: 10px;
+    }
+    #reference {
+        font-size: 13px;
+    }
 }
