@@ -10,3 +10,8 @@ Let's go back to your recipe (from assignments #1, #2, and #3), and add some sty
 2. Change the font size of the paragraphs and lists so they are different sizes.
 3. Add padding below each heading (h1, h2 etc) you've used, to space them out from the content they're above.
 4. Make the page title (the h1) bold, and make it underlined.
+
+### Extra Credit:
+
+1. Find a website that lists out all the various css properties you can use, and send that link to us when you submit your assignment.
+2. Using that website as a resource, add a styling property that we haven't covered yet.
