@@ -10,7 +10,7 @@ Repository for the course: https://pirple.thinkific.com/courses/frontend-fundame
 4. Change the bullet-points in the unordered list so that they are an emoji of your choosing.
 5. Change the numbers in the ordered list so that they are roman numerals instead.
 
-Extra Credit:
+### Extra Credit:
 
 1. Within one of your paragraphs, add <span> elements around several words or phrases that should be emphasized.
 2. Within your CSS create a selector that will only apply to <span> elements that are within <p> elements, and make them italic.
